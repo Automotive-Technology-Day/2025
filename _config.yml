@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RAGE 2025
-email: gabriele.serra@santannapisa.it
+title: ATD 2025
+email: shashankgaur@ieee.org
 description: >- # this means to ignore newlines until "baseurl:"
   RAGE - The 4th international workshop on Real-time And intelliGent Edge computing
 baseurl: "/2025" # the subpath of your site, e.g. /blog
-url: "https://rage-workshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "rage-workshop.github.io"
+url: "https://automotive-technology-day.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "autmotive-technology-day.github.io"
 
 # Build settings
 theme: null
